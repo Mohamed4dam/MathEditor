@@ -14,3 +14,7 @@ Dynamic Toolbar: Includes essential text formatting options and a dedicated butt
 Customizable Interface: Built with QuillJS, the editor is flexible and extendable.
 
 Cross-Platform: Works seamlessly across modern browsers.
+
+
+
+*This was a group project for school*
